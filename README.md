@@ -4,6 +4,10 @@ Never wonder **"What should we do today?"** again.
 
 **Date Roulette** is a fun and interactive web app that helps couples discover personalized date ideas with a single spin. Instead of endlessly deciding where to go, users simply choose their preferences and let the wheel create a unique date experience.
 
+## 🚀 Try It Live
+
+**Live Website:** https://date-roulette-topaz.vercel.app/
+
 ## ✨ Features
 
 * 🎡 Spin the wheel for a unique date every time
@@ -28,14 +32,7 @@ Never wonder **"What should we do today?"** again.
    * 🚗 Far Away
    * ✈️ Different Country
 4. Click **Spin**.
-5. Receive a personalized date plan including:
-
-   * 🎯 Main Activity
-   * 🍽️ Food Recommendation
-   * 💬 Conversation Prompt
-   * 🎵 Playlist Mood
-   * 📸 Fun Challenge
-   * 🎁 Bonus Mission
+5. Receive a personalized date plan
 
 Every spin generates a fresh experience based on your selected preferences.
 
