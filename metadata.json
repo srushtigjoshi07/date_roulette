@@ -1,0 +1,6 @@
+{
+  "name": "Date Roulette",
+  "description": "A fun, Gen Z-style mystery date roulette wheel with custom moods, challenges, memories, streaks, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
